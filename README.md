@@ -10,10 +10,9 @@ To get started with this project, follow these steps:
 
 2. Start the development server:
 
-````bash
+    ```bash
     npm run dev
     ```
-````
 
 3. Open the developement server
    (usually http://localhost:5173)
