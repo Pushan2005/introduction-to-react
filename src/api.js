@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/items";
+const API_URL = "https://introduction-to-express.onrender.com/api/items";
 
 export const getItems = async () => {
     const response = await fetch(API_URL);
