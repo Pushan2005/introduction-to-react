@@ -1,4 +1,4 @@
-# This is part of my "Introduction to web development" bootcamp that I held during my 2nd semester summer break
+This is part of my "Introduction to web development" bootcamp that I held during my 2nd semester summer break
 
 # Project Setup Instructions
 
